@@ -1,4 +1,4 @@
-# Help Decorah Project Frontend part
+# Help Decorah Project Backend part
 
 ## ⚙️ Backend Development & API Design
 The backend of HelpDecorah serves as the central engine for data management and secure user interactions, built with a focus on scalability and clean architecture.
