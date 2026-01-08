@@ -23,5 +23,7 @@ Automated Data Serialization: Leveraged Marshmallow and flask-marshmallow to aut
 Comprehensive REST API Endpoints: Built full CRUD functionality (Create, Read, Update, Delete) for task management.
 
 ## Video demonstration user interface:
+https://youtu.be/21CfzE36LqE
 
 ## Video demonstration admin interface:
+https://youtu.be/6GuQp8tNBR8
